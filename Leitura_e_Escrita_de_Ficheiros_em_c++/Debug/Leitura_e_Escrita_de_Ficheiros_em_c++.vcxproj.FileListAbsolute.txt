@@ -1,0 +1,2 @@
+D:\Engenharia Informática Material das Aulas\1º Ano\2º Semestre\Programação orientada a objetos\Exercicios_Aulas\Leitura_e_Escrita_de_Ficheiros_em_c++\Debug\Leitura_e_Escrita_de_Ficheiros_em_c++.exe
+D:\Engenharia Informática Material das Aulas\1º Ano\2º Semestre\Programação orientada a objetos\Exercicios_Aulas\Leitura_e_Escrita_de_Ficheiros_em_c++\Debug\Leitura_e_Escrita_de_Ficheiros_em_c++.pdb
