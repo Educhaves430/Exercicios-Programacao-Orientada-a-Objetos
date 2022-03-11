@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pilha", "pilha.vcxproj", "{3046C074-903A-4058-AC57-ADBD2278EEEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3046C074-903A-4058-AC57-ADBD2278EEEF}.Debug|x64.ActiveCfg = Debug|x64
+		{3046C074-903A-4058-AC57-ADBD2278EEEF}.Debug|x64.Build.0 = Debug|x64
+		{3046C074-903A-4058-AC57-ADBD2278EEEF}.Debug|x86.ActiveCfg = Debug|Win32
+		{3046C074-903A-4058-AC57-ADBD2278EEEF}.Debug|x86.Build.0 = Debug|Win32
+		{3046C074-903A-4058-AC57-ADBD2278EEEF}.Release|x64.ActiveCfg = Release|x64
+		{3046C074-903A-4058-AC57-ADBD2278EEEF}.Release|x64.Build.0 = Release|x64
+		{3046C074-903A-4058-AC57-ADBD2278EEEF}.Release|x86.ActiveCfg = Release|Win32
+		{3046C074-903A-4058-AC57-ADBD2278EEEF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4205675E-2CAE-4AA8-8888-77470D52E951}
+	EndGlobalSection
+EndGlobal
