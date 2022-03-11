@@ -1,2 +1,7 @@
-# Exercicios-Programacao-Orientada-a-Objetos
-Exercícios realizados em programação orientada a objetos (1º ano, 2º semestre) realizados em C++
+Departamento de Engenharias Escola de Ciências e Tecnologia Universidade de Trás-os-Montes e Alto Douro
+
+Licenciatura em Engenharia Informática / 1º Ano
+
+Programação Orientada a Objetos
+
+-> Exercícios realizados em C++
